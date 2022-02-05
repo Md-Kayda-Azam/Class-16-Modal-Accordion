@@ -32,7 +32,7 @@ body {
 .main-banner {
     width: 100%;
     height: 100vh;
-    background-image:linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0.5)), url('https://i.pinimg.com/564x/38/59/e6/3859e6eb56050acad5ca6e6b913448dc.jpg');
+    background-image:linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0.2)), url('https://cdn.autonomous.ai/static/upload/images/common/upload/20210327/Minimalist-Office-Design-Style-For-Productive-Workspace_7105c6f4618.jpg');
     background-size: cover;
     background-position: center center;
     justify-content: center;
@@ -63,7 +63,6 @@ body {
     font-weight: 200;
     margin-bottom: 10px;
 }
-
 .banner-content-footer a {
     width: 60px;
     height: 20px;
